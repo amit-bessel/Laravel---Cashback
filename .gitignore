@@ -1,0 +1,4 @@
+config/database.php
+app/Traits/CaptchaTrait.php
+storage/logs/laravel.log
+storage/*
