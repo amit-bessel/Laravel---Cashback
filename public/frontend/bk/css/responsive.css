@@ -1,0 +1,836 @@
+@media (max-width:1366px) {
+	body {
+		font: 400 14px/20px 'Droid Serif', serif;
+	}
+	nav > ul > li > .dropdown-menu ul li a{
+		font:400 10px/20px 'Droid Serif', serif;
+	}
+	.shop-selection {
+		font-size: 12px;
+	}	
+	nav > ul > li > a {
+		font-size: 12px;
+		padding: 0 10px;
+	}
+	.container {
+	    width: 990px;
+	}
+	.top-header {
+	    padding: 25px 0;
+	}
+	.info-texthome h4 {
+	    font: 24px/26px 'PlayfairDisplay-Black';
+	}
+	.text-block h3, .discountpercent {
+	    font: 400 16px/18px 'Droid Serif', serif;
+	}
+	.product-block .btn-link {
+	    font: 14px/16px 'PlayfairDisplay-Italic';
+	}
+	.icon-block a {
+	    font: 400 16px/22px 'Droid Serif', serif;
+	}
+	.icon-block {
+		height: 80px;
+	}
+	.main-heading {
+	    font: 22px/24px 'PlayfairDisplay-Regular';
+	}
+	.popular-products h6 {
+	    font: 400 14px/18px 'Droid Serif', serif;
+    	margin-bottom: 3px;
+	}
+	.popular-products p.price-block {
+		font: 400 16px/18px 'Droid Serif', serif;
+	}
+	.search-bar ul li .dropdown-menu h6 {
+	    font: 14px/22px 'PlayfairDisplay-Black';
+	}
+	.search-bar ul li .dropdown-menu .btn-block .btn-primary {
+	    font: 13px/16px 'PlayfairDisplay-Black';
+	}
+	.search-bar ul li .dropdown-menu p {
+	    font: 13px/20px 'Poppins-Light';
+	}
+	footer ul.main-listing li a {
+	    font: 400 12px/31px 'Droid Serif', serif;
+	}
+	footer h5 {
+	    font: 15px/22px 'PlayfairDisplay-Regular';
+	}
+	.infobar {    
+	    font: 12px/28px 'PlayfairDisplay-Regular';
+	}	
+	.search-btn {
+		right: 9px;
+    	top: 5px;
+	}
+	.common-headerblock h4 {
+	    font: 26px/28px 'PlayfairDisplay-Black';
+	}
+	.page-nameblock {
+	    padding: 24px 0;
+	}
+	.page-nameblock .common-headerblock h4,
+	.page-nameblock .common-headerblock {
+		margin-bottom: 0;
+	}
+	.leftcategory-desc h4 {
+		font-size: 22px;
+	}	
+	.inner-sidebar h5 {
+	    font: 400 18px/28px 'Droid Serif', serif;
+	}
+	.prod-info h6 {
+	    font: 400 14px/18px 'Droid Serif', serif;
+	}
+	.toolbar {
+	    padding: 5px 0;
+	}
+	.pagination-block a,
+	.toolbar a.back-to-top,
+	.pagination-block p,
+	.sorter p a {
+		font: 400 14px/27px 'Droid Serif', serif;
+	}	
+	.user-submenublock h5 {
+    	font: 700 14px/28px 'Droid Serif', serif;
+    } 
+    .user-submenublock ul li a {
+	    font: 400 12px/26px 'Droid Serif', serif;
+	}
+	.user-formpanel .form-group .form-control {
+		height: 43px;
+	}
+	h3.user-heading {
+	    font: 700 18px/22px 'Droid Serif', serif;
+	}
+	.table>thead>tr>th {
+		font-size: 12px;
+	}
+	.transaction-tabs .table-striped>tbody>tr>td.cart-description h4 {
+	    font: 400 13px/18px 'Droid Serif', serif;
+	}
+	.transaction-tabs .table-striped>tbody>tr>td {
+	    font: 400 13px/15px 'Droid Serif', serif;
+	}
+	.wallet {
+	    font: 400 40px/42px 'Droid Serif', serif;
+	}
+	.common-headerblock h4 {
+	    font: 24px/26px 'PlayfairDisplay-Black';
+	}
+	nav > ul > li.dropdown.mega-menu .dropdown-menu {
+		top: 133px;
+	}
+	.shop-selection {
+		font-size: 11px;
+	}
+	.search-form .form-control {
+	    height: 30px;
+	}
+	header span.icon-piggy-bank, 
+	header span.icon-user {
+	    font-size: 30px;
+	}
+	.price-block {
+	    font: 400 18px/20px 'Droid Serif', serif;
+    	color: #3a3a3a;
+	}
+	.prod-info p.price-block {
+	    font: 400 16px/18px 'Droid Serif', serif;
+	}
+	.inner-sidebar ul > li > a {
+	    font: 400 12px/24px 'Droid Serif', serif;
+	}
+	.product-details .company-name {
+	    font: 16px/22px 'Droid Serif', serif;
+	}
+	.panel-default > .panel-heading + .panel-collapse > .panel-body {
+	    border-top: none;
+	    font: 400 11px/15px 'Droid Serif', serif;
+	    color: #4c4b4b;
+	    padding: 5px 20px 20px;
+	}
+	.btn-primary {
+	    color: #312f2f;
+	    background-color: transparent;
+	    border: 1px solid #312f2f;
+	}
+	/*===19-06-2017====*/
+	.about-page{
+		padding:46px 10% 0;
+	}
+}
+
+@media (max-width:1199px) {
+	.btn {
+	    font: 13px/16px 'PlayfairDisplay-Black';
+	}
+	nav > ul > li > a {
+		padding: 0 10px;
+		font-size: 14px;
+	}
+	.infobar {
+		line-height: 36px;
+	}
+	.product-details .company-name {
+	    font: 22px/24px 'PlayfairDisplay-Black';
+	}
+	.panel-title > a {
+		font:700 14px/17px 'Droid Serif', serif;
+	}
+	.twitter-icon,
+	.fb-icon {
+	    width: 42px;
+	    height: 42px;
+	}
+	nav > ul > li > .dropdown-menu .col-sm-5 img {
+		margin-bottom: 10px;
+		max-width: 100%;
+	}
+	#maincategories select {
+		display: inline-block;
+	    padding: 9px 15px;
+	    border: 1px solid #d8d8d8;
+	    min-width: 360px;
+	    border-radius: 2px;
+	}
+	#maincategories ul {
+		display: none;
+	}
+	#maincategories {
+		text-align: center;
+		padding: 10px 0;
+	}
+	.singleletterlisting ul li a {
+	    font: 400 14px/30px 'Droid Serif', serif;
+	}
+}
+
+@media (max-width:992px) {
+	.container {
+    	width: 100%;
+    }    
+	.right-part {
+	    height: 500px;
+	    width: 100%;
+	    left: 0;
+	    position: absolute;
+	    background: rgba(255, 255, 255, 0.21);
+	}
+	.product-block .btn-link,
+	.text-block h3, .discountpercent {
+    	font-size: 14px;
+    	line-height: 16px;
+    }    
+    .icon-block a {
+	    font: 14px/49px 'Poppins-Medium';
+	}
+	.product-list ul li {
+		width: 50%;
+	}
+	.product-list ul li:nth-child(3n+1) {
+		clear: none;
+	}
+	.product-list ul li:nth-child(2n+1) {
+		clear: left;
+	}
+	.sorter p a,
+	.sorter p,
+	.pagination-block a,
+	.pagination-block p {
+	    font: 13px/27px 'Poppins-Regular';
+	}
+	#logo {	    
+	    float: left;
+	    padding-left: 10px;
+	    padding-top: 20px;
+	}
+	#logo img {
+	    max-width: 270px;
+	}
+	.shop-selection {
+		width: 100%;
+	}
+	.shop-selection p {
+		margin-bottom: 0;
+	}
+	.top-header {
+	    padding: 14px 0;
+	    float: left;
+	    width: 100%;
+	}
+	.common-headerblock h4 {
+	    font: 22px/24px 'PlayfairDisplay-Black';
+	}
+	.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+	    padding: 8px !important;;
+	    vertical-align: top !important;
+	    font-size: 13px;
+	}
+	.transaction-tabs .table-striped>tbody>tr>td.cart-description h4 {
+	    font: 12px/15px 'Poppins-Regular';
+	}
+	.transaction-tabs .table>thead>tr>th {
+		vertical-align: middle;
+	}
+	.transaction-tabs .table-striped>tbody>tr>td {
+	    font: 12px/14px 'Poppins-Medium';
+	}
+	nav > ul > li.dropdown.mega-menu .dropdown-menu .container {
+		width: 100%;
+	}
+	nav {
+	    border-bottom: none;
+	    position: fixed;
+	    width: 350px;
+	    background: #fff;
+	    left: 0;
+	    top: 0;
+	    z-index: 12;
+	    height: 100%;
+	    border-left: 4px solid #000;
+	    box-shadow: 0 0 3px #000;
+	    overflow-y: scroll;
+	    left: -350px;
+	    transition: all .3s ease-in-out;
+	    -moz-transition: all .3s ease-in-out;
+	    -webkit-transition: all .3s ease-in-out;
+	}
+	nav.openmenu {
+		left: 0;
+	}
+	nav::before {
+		content: 'Menu';
+	    padding: 10px;
+	    border-bottom: 1px solid #000;
+	    font: 21px/31px 'PlayfairDisplay-Black';
+	    width: 100%;
+	    float: left;
+	    color: #000;
+	    background: #f2f0f2;
+	    text-transform: uppercase;
+	}
+	nav > ul > li {
+		display: block;
+	}
+	nav > ul > li > .dropdown-menu ul li a {
+	    font: 14px/36px 'Poppins-Regular';
+	}
+	nav > ul > li.dropdown.mega-menu .dropdown-menu h5 {
+    	font: 16px/23px 'PlayfairDisplay-Black';
+    }
+    nav > ul > li.dropdown.mega-menu .dropdown-menu {
+    	top: auto;
+    	position: relative;
+    	padding-top: 0;
+    	top: auto;
+    }
+    nav > ul > li > .dropdown-menu ul li {
+	    width: 100%;
+	    padding-right: 0;
+	}
+	nav > ul > li.dropdown.mega-menu .dropdown-menu .col-sm-7,nav > ul > li.dropdown.mega-menu .dropdown-menu .col-sm-5 {
+		float: left;
+		width: 100%;
+	}
+	nav > ul > li > .dropdown-menu ul {
+		float: left;
+		width: 100%;
+		padding-left: 0;
+	}
+	nav > ul > li > .dropdown-menu {
+		padding-top: 5px;
+	}
+	.close-nav {
+	    display: block;
+	    position: absolute;
+	    font-size: 27px;
+	    right: 15px;
+	    top: 12px;
+	    color: #000;
+	}
+	.open-menu {
+		display: block;
+	    position: absolute;
+	    font-size: 24px;
+	    color: #000;
+	    border: 1px solid #000;
+	    padding: 5px 10px;
+	    line-height: 17px;
+	    border-radius: 2px;
+	    right: auto;
+	    top: 9px;
+	    left: 25px;
+	}
+	
+	.close-menu {
+	    position: fixed;
+	    z-index: 11;
+	    background: rgba(0, 0, 0, 0.4);
+	    width: 100%;
+	    height: 100%;
+	    left: 0;
+	    top: 0;
+	    cursor: pointer;
+	}
+	.top-header {
+	    padding: 14px 0;
+	    float: left;
+	    width: 100%;
+	    border-bottom: 1px solid #000;
+	}
+	.shop-selection p {
+	    text-align: right;
+	}
+	nav > ul {
+		padding-top: 60px;
+	}
+	nav > ul > li > a {
+		font-size: 14px;
+	}
+	nav > ul > li.dropdown.mega-menu > a::before {
+		content: "\f196";
+    	font-family: FontAwesome;
+    	margin-right: 5px;
+	}
+	nav > ul > li.dropdown.mega-menu.open > a::before {
+		content: "\f147";
+	}
+	.user-submenublock ul li a {
+		font-size: 13px;
+	}
+	.main-heading {
+	    font: 20px/22px 'PlayfairDisplay-Regular';
+	}
+	.info-texthome h4 {
+	    font: 22px/24px 'PlayfairDisplay-Black';
+	}
+	.popular-products h6 {
+	    font: 400 14px/16px 'Droid Serif', serif;
+	}
+	.totalatoz ol {
+		padding-left: 0;
+	    text-align: center;
+	    margin-top: 7px;
+	}
+	.totalatoz ol li {
+		float: none;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.totalatoz ol li a {
+		padding: 5px 10px;
+	}
+	.singleletterlisting ul li {
+		width: 33.33%;
+	}
+	.product-block .img-section img {
+	    height: 154px;
+	}
+}
+
+@media (max-width:767px) {
+	.btn {
+	    font: 12px/14px 'PlayfairDisplay-Black';
+	    letter-spacing: 2px;
+	}
+	.discount-slider {	    
+	    font-size: 86px;
+	    line-height: 94px;
+	    width: 100%;
+	}
+	.discount-slider span {
+	    font-size: 27px;
+	    line-height: 30px;
+	}
+	.heading-slider h2::after {
+	    content: '';
+	    width: 220px;
+	    height: 13px;
+	    background: url(../images/top-decorate.png) no-repeat 0 0;
+	    left: 50%;
+	    margin-left: -110px;
+	    bottom: 0;
+	    position: absolute;
+	}
+	.prod-blockcontainer + .prod-blockcontainer {
+		margin-top: 10px;
+	}
+	.icon-block.icon-1 {
+		border-bottom: none;
+	}
+	.icon-block.icon-3 {
+		border-top: none;
+	}
+	.icon-block.icon-2 {
+		border-left: 1px solid #d9d9d9;
+		border-right: 1px solid #d9d9d9;
+	}
+	.btn-slider {
+	    font-family: 'PlayfairDisplay-Black';
+	    font-size: 14px;	    
+	    letter-spacing: 4px;
+	    background: rgba(255, 255, 255, 0.5);
+	    min-width: 90%;
+	}
+	#logo img {
+		max-width: 165px;
+	}	
+	.top-header {
+	    border-bottom: none;
+	}
+	.toggle-sidebar {
+		display: block;
+	    background: none;
+	    border: none;
+	    margin: 0 auto;
+	    padding: 5px 15px;
+	    border: 2px solid #000;
+	    margin-bottom: 10px;
+	    background: #000;
+    	color: #fff;
+	}
+	.shop-selection {
+	    width: 100%;
+	}
+	#logo {
+	    padding-top: 15px;
+	    float: left;
+	    padding-left: 0;
+	    clear: left;
+	}
+	.table-cellspecial {
+		display: block;
+	}
+	.prod-info h6 {
+	    font: 14px/18px 'Poppins-Regular';
+	    overflow: hidden;
+	    text-overflow: ellipsis;
+	    white-space: nowrap;
+	}
+	.product-list ul li {
+		padding: 0 10px;
+	}
+	.sorter {
+		width: 100%;
+		text-align: center;
+	}
+	.pagination-block {
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.pagination-block p {
+		display: inline-block;
+		float: none !important; 
+	}
+	.page-nameblock {
+	    padding: 10px 0;
+	    border-top: 1px solid #000;
+	    border-bottom: 1px solid rgb(0, 0, 0);
+	    margin-bottom: 10px;
+	}
+	.common-headerblock,
+	.common-headerblock h4 {
+	    margin-bottom: 0;
+	}
+	.common-headerblock h4 {
+	    font-size: 20px;
+	    line-height: 26px;
+	}
+	.sub-formblock {
+	    padding: 24px 10px;
+	}
+	.formblock h6 {
+	    font: 17px/20px 'Poppins-Medium';
+	    color: #1b1b1b;
+	    letter-spacing: 0px;
+	}
+	.formblock .form-group div[class^="col-sm-"]+div[class^="col-sm-"],.user-formpanel .form-group div[class^="col-sm-"]+div[class^="col-sm-"] {
+		margin-top: 15px;
+	}
+	.formblock .form-group,
+	.user-formpanel .form-group {
+		margin-bottom: 15px;
+	}
+	.formblock {
+		margin-top: 15px;
+	}
+	.right-userpanel {
+		margin-top: 35px;
+	}
+	.text-centerformob {
+		text-align: center;
+	}
+	.text-centerformob img {
+		display: inline-block;
+	}
+	.wallet {
+	    font: 32px/34px 'Poppins-Medium';
+	}
+	.custom-padleft {
+		padding-left: 0;
+	}
+	.red-link {
+	    display: block;
+	    float: none !important;
+	    display: inline-block;
+	}
+	.transaction-tabs .table-striped>tbody>tr>td.cart-description,.wishlist-section table td {
+		width: 100%;
+    	border-top: none;
+	}
+	.new-responsive table thead {
+		display: none;
+	}
+	.new-responsive table tbody tr td {
+
+	}
+	.new-responsive table tbody tr td::before {		
+		content: attr(data-title);
+	    font: 14px/16px 'Poppins-Regular';
+	    font-weight: 700;
+	    display: block;
+	    padding: 10px 0;
+	    text-transform: uppercase;
+	    text-align: center;
+	}
+	.cart-img {
+		float: none !important;
+		margin:0 auto 10px;
+	}
+	.transaction-tabs .table-striped>tbody>tr,.wishlist-section table tr {
+	    border-bottom: 2px solid #000;
+	}
+	.transaction-tabs .table,.wishlist-section .table {
+	    margin-bottom: 0;
+	    border: 1px solid #ccc;
+	}
+	.transaction-tabs .nav-tabs>li>a {
+		padding: 5px 20px;
+	}
+	.transaction-tabs .table-striped>tbody>tr>td,.wishlist-section table td {
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.open-menu {
+		display: block;
+	    position: absolute;
+	    font-size: 24px;
+	    color: #000;
+	    border: 1px solid #000;
+	    padding: 5px 10px;
+	    line-height: 17px;
+	    border-radius: 2px;
+	    left: auto;
+	    right: 10px;
+	    top: 9px;
+	}
+	.shop-selection p {
+	    text-align: left;
+	}
+	nav {	    
+	    width: 300px;	    
+	    left: -300px;
+	}
+	.search-column {
+		width: 60%;
+		float: left;
+	}
+	.search-select {
+		width: 40%;
+	}
+	.wishlist-section table td a.btn {
+		display: inline-block;
+		width: auto;
+		vertical-align: top;
+		margin-top: 0;
+	}
+	.thankyou-round {
+		width: 260px;
+    	height: 260px;
+    	font: 40px/47px 'PlayfairDisplay-Black';
+    	border-width: 10px;
+	}
+	.thankyou-section h4 {
+	    font: 20px/22px 'Poppins-Regular';
+	}	
+	.product-details .company-name {
+	    font: 18px/24px 'PlayfairDisplay-Black';
+	}
+	.price-block {
+	    font: 700 16px/56px 'Droid Serif', serif;
+	}
+	.panel-title > a {
+		padding: 15px 0;
+	}
+	.panel-default > .panel-heading + .panel-collapse > .panel-body {
+		padding: 5px 0 15px; 
+	}
+	.social-iconblock,
+	.details-btns {
+		width: 100%;
+		text-align: center;
+		margin-top: 5px;
+	}
+	.details-btns .btn {
+		display: inline-block;
+	}
+	.social-iconblock a {
+		display: inline-block;
+		height: 34px !important;
+		line-height: 34px;
+		width: 34px !important;
+	}
+	.search-bar ul li .dropdown-menu .main-usercontent {
+	    padding: 0 20px;
+	}
+	.search-bar ul li .dropdown-menu .btn-block {
+		padding: 20px;		
+	}
+	.search-bar ul li .dropdown-menu .btn-block .btn-primary {
+		width: auto;
+	}
+	.fb-bg {
+	    height: 40px;
+	    line-height: 40px;
+	    font-size: 16px;
+	}
+	.common-headerblock p {
+	    font: 400 14px/16px 'Droid Serif', serif;
+	    margin-top: 5px;
+	}
+	.designer_boxes {
+		-webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+	}
+	.modal-lft {
+	    width: 100%;
+	    height: 105px;
+	}
+	.modal-right {
+	    width: 100%;
+	    padding: 10px;
+	}
+	.email-signupstyle .moadal-head h4 {
+	    font: 20px/22px 'Droid Serif', serif;
+	}
+	.product-showcase {
+		text-align: center;
+	}
+	.product-showcase img {
+		display: inline-block;
+	}
+	.singleletterlisting ul li {
+		width: 50%;
+	}
+	.totalatoz.smallheader {
+		top: auto;
+		bottom: 0;
+	}
+	.totalatoz span {
+		display: none;
+	}
+	.totalatoz ol li a {
+		font-size: 11px;
+		padding: 2px;
+	}
+	span.signintext {
+		display: none;
+	}
+	/*===19-06-2017====*/
+	.about-page{
+		padding:46px 0 0;
+	}
+	.contact-form-body{
+		margin-bottom: 30px;
+	}
+	.about-page{
+		padding: 40px 0 0;
+	}
+}
+
+@media (max-width:480px) {
+	footer ul.main-listing li {
+	    float: left;
+	    width: 100%;
+	}
+	footer h5 {
+		clear: both;
+	}
+	.search-bar ul li .dropdown-menu {
+	    width: 289px;
+	    border: 1px solid #c4c4c4;
+	    right: -53px;
+	    left: auto;
+	    border-radius: 0;
+	}
+	.search-bar ul li .dropdown-menu .btn-block .btn-primary {
+	    font: 12px/18px 'PlayfairDisplay-Black';
+	}
+	.search-bar {
+	    padding-top: 10px;
+	    width: 100%;
+	    text-align: center;
+	    border-top: 1px solid rgba(0, 0, 0, 0.19);
+	    margin-top: 10px;
+	}
+	.search-form ,.search-bar ul {
+		float: none;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.product-block .img-section img {
+		width: 100%;
+	}
+	.infobar {
+	    font: 13px/28px 'PlayfairDisplay-Regular';
+	    padding: 0 10px;
+	}
+	.img-product {
+		max-height: 145px;
+	}
+	.product-list ul li .img-product img {
+		height: 145px;
+	}
+	#logo {
+		float: none;
+		display: inline-block;
+	}
+	.search-column,.search-select {
+		width: 100%;
+		float: left;
+	}
+	.search-column {
+		margin-bottom: 3px;
+	}	 
+	.wishlist-section table td a.btn {
+		width: 100%;
+	}
+	.wishlist-section table td a.btn+a.btn {
+		margin-top: 3px;
+	}
+	.formblock .btn {
+	    padding: 11px 15px;
+	}
+	.singleletterlisting ul li {
+		width: 100%;
+	}
+	#maincategories select {
+		min-width: 100%;
+	}
+	/*===19-06-2017====*/
+	.about-page h2{
+		font-size: 25px;
+		line-height: 26px;
+		margin-bottom: 20px;
+	}
+	.about-page h3{
+		font-size: 20px;
+		line-height: 20px;
+	}
+}
